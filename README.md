@@ -1,4 +1,4 @@
-Hi, I’m @devlock01 and new to GitHub. <br>
+Hi, I’m @devlock01 and new to GitHub.  
 Intentionally I want to share some of my (python) code as open source.
 
 My current interest is
